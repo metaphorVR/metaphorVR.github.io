@@ -1,6 +1,6 @@
-I"ü<h2 id="introduction">Introduction:</h2>
+I"ø<h2 id="introduction">Introduction:</h2>
 
-<p>We are a group of researchers spanning interaction, computation, and the language sciences interested in leveraging virtual reality to systematically explore the interplay of metaphor and emotion using immersive, spatial interaction. <!---W-e are also interested in multimodal metaphoric interaction --any immersive interaction that associates a physical experience with a more abstract concept.---></p>
+<p>We are a group of researchers spanning language sciences, computation, and interaction interested in leveraging virtual reality to systematically explore the interplay of metaphor and emotion using immersive, spatial interaction. <!---W-e are also interested in multimodal metaphoric interaction --any immersive interaction that associates a physical experience with a more abstract concept.---></p>
 
 <p><strong>metaphorVR</strong> (<span style="color:gray">formerly MetaVR</span>) is an interface specifically designed to facilitate this exploration. It allows researchers (potentially their subjects) and interaction designers to easily configure various multimodal metaphoric interactions in VR in order to run experiments in a controlled environment and prototype novel interactions.</p>
 
@@ -37,17 +37,17 @@
   <p>Vesna G. Djokic, Ekaterina Shutova, Rebecca Fiebrink</p>
 </blockquote>
 
-<div class="embed-container">
-  <iframe src="https://www.youtube.com/embed/tPuBmSuENDE" width="700" height="480" frameborder="0" allowfullscreen="">
-  </iframe>
-</div>
-
 <blockquote>
   <p>CHIâ€™21: ACM CHI Conference on Human Factors in Computing Systems
 Session: 
 Interactivity Day 2 - E
 Interactivity Day 2 - F</p>
 </blockquote>
+
+<div class="embed-container">
+  <iframe src="https://www.youtube.com/embed/tPuBmSuENDE" width="700" height="480" frameborder="0" allowfullscreen="">
+  </iframe>
+</div>
 
 <!---**Abstract**
 
