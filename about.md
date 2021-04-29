@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About 
+title: Team 
 description: #This is who we are.
 background: '/img/bg-about.jpg'
 ---
