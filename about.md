@@ -2,7 +2,7 @@
 layout: page
 title: About 
 description: #This is who we are.
-background: '/img/bg-about.jpg'
+background: '/img/bg-about.png'
 ---
 
 
