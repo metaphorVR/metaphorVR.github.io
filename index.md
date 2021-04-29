@@ -1,6 +1,6 @@
 ---
 layout: home
-background: '/img/bg-index.png'
+background: '/img/bg-index.jpg'
 driveId: 1g1ZOr1o0gfmqL3X7zuGA1fO2pmVmSIfg/preview
 youtubeId: tPuBmSuENDE
 ---
