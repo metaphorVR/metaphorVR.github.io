@@ -39,6 +39,7 @@ In our proof-of-concept we are currently only supporting personification --a typ
 > Vesna G. Djokic, Ekaterina Shutova, Rebecca Fiebrink
 
 > Sessions:
+> Time zone (UTC+9)
 
 > Interactivity Day 2 - E
 > Tue, May 11 18:00 - 20:00
